@@ -1,5 +1,4 @@
 # Project_Calculator.github.io
-Calculator
 
 <h1>NOTE</h1>
 <b>All of the Code is written in ES6 version.</b>
